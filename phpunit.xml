@@ -1,0 +1,13 @@
+<phpunit bootstrap="../../../autoload.php"
+         colors="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         stopOnFailure="false"
+         syntaxCheck="true" >
+
+    <testsuite name="Phpass Test Suite">
+        <directory>./Tests</directory>
+    </testsuite>
+
+</phpunit>
