@@ -1,8 +1,5 @@
 <?php
-
-// namespace Hautelook\Phpass\Tests;
-
-use Hautelook\Phpass\PasswordHash;
+use ModernMedia\Phpass\PasswordHash;
 
 /**
  * 
